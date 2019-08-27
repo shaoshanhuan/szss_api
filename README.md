@@ -3,6 +3,9 @@
 
 数据库中不需要事先导入数据，但是必须要先开启数据库
 
+先解压缩images图片文件夹
+> 将images.zip解压到项目目录的images文件夹中
+
 开启数据库
 > mongod --dbpath c:\database
 
